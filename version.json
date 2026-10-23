@@ -1,10 +1,10 @@
 {
   "versionFormato": 1,
-  "claveActualizacionId": "update-test-2026",
-  "version": "1.0.4",
-  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.0.4/ElectroStock_Setup_v1.0.4.exe",
-  "tamanoBytes": 52991960,
-  "sha256": "2537855D1F34A139398BE126954743F6DCABAB0E887AD259B3D8B7F38787C490",
-  "fechaPublicacionUtc": "2026-10-23T03:11:11.3836626Z",
-  "novedades": "Actualización de prueba v1.0.4: Verificación del actualizador por Internet conservando licencias temporales y datos de inventario."
+  "claveActualizacionId": "update-prod-2026",
+  "version": "1.1.0",
+  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.1.0/ElectroStock_Setup_v1.1.0.exe",
+  "tamanoBytes": 53003697,
+  "sha256": "62CD9D014C6A8C0A25AED4D463D58BA4803A109CD5909960E55EFCA2D4B9B5B1",
+  "fechaPublicacionUtc": "2026-10-23T22:46:38.6303736Z",
+  "novedades": "- Control de acceso y roles (Administrador y Vendedor).\r\n- Selector visual de perfiles en inicio de sesión rápido.\r\n- Panel de gestión de usuarios y restablecimiento de contraseñas.\r\n- Cierre de sesión y cambio dinámico de usuario sin reiniciar la aplicación."
 }
