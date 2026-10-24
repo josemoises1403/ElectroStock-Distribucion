@@ -1,10 +1,10 @@
 {
   "versionFormato": 1,
   "claveActualizacionId": "update-prod-2026",
-  "version": "1.3.0",
-  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.3.0/ElectroStock_Setup_v1.3.0.exe",
-  "tamanoBytes": 100632367,
-  "sha256": "B6E3DD7B4959F67AB232FC9599AD343D574ACC0869C0CEDA741DE9FE4ED003FE",
-  "fechaPublicacionUtc": "2026-10-24T07:58:40.9216999Z",
-  "novedades": "- Incorporación del actualizador por Internet con verificación criptográfica.\n- Mejoras de estabilidad."
+  "version": "1.3.3",
+  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.3.3/ElectroStock_Setup_v1.3.3.exe",
+  "tamanoBytes": 69636231,
+  "sha256": "5D941F7C154DE8D25A68660D1641601107429429C71DCD6276A4B1D67C2FE2CF",
+  "fechaPublicacionUtc": "2026-10-24T19:20:14.4128885Z",
+  "novedades": "- Control de concurrencia y prevención de sobreventa simultánea en terminales POS.\r\n\n- Sincronización automática periódica cada 10 segundos en inventario y dashboard.\r\n\n- Monitor de telemetría y terminales activas en tiempo real para administradores."
 }
