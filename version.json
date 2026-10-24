@@ -1,10 +1,10 @@
 {
   "versionFormato": 1,
   "claveActualizacionId": "update-prod-2026",
-  "version": "1.2.0",
-  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.2.0/ElectroStock_Setup_v1.2.0.exe",
-  "tamanoBytes": 53037829,
-  "sha256": "8AE0603B0D89976EE25DE769291ADBAB3B233817522759A095E257526A2EB57A",
-  "fechaPublicacionUtc": "2026-10-24T05:55:42.7924052Z",
-  "novedades": "- Arquitectura multiterminal con conexión a SQL Server en red local.\r\n- Nuevo módulo de Punto de Venta (POS) con cobro rápido y descuento de stock.\r\n- Resiliencia y transaccionalidad atómica mejoradas."
+  "version": "1.3.0",
+  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.3.0/ElectroStock_Setup_v1.3.0.exe",
+  "tamanoBytes": 100632367,
+  "sha256": "B6E3DD7B4959F67AB232FC9599AD343D574ACC0869C0CEDA741DE9FE4ED003FE",
+  "fechaPublicacionUtc": "2026-10-24T07:58:40.9216999Z",
+  "novedades": "- Incorporación del actualizador por Internet con verificación criptográfica.\n- Mejoras de estabilidad."
 }
