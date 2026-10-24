@@ -1,10 +1,10 @@
 {
   "versionFormato": 1,
   "claveActualizacionId": "update-prod-2026",
-  "version": "1.1.0",
-  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.1.0/ElectroStock_Setup_v1.1.0.exe",
-  "tamanoBytes": 53003697,
-  "sha256": "62CD9D014C6A8C0A25AED4D463D58BA4803A109CD5909960E55EFCA2D4B9B5B1",
-  "fechaPublicacionUtc": "2026-10-23T22:46:38.6303736Z",
-  "novedades": "- Control de acceso y roles (Administrador y Vendedor).\r\n- Selector visual de perfiles en inicio de sesión rápido.\r\n- Panel de gestión de usuarios y restablecimiento de contraseñas.\r\n- Cierre de sesión y cambio dinámico de usuario sin reiniciar la aplicación."
+  "version": "1.2.0",
+  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.2.0/ElectroStock_Setup_v1.2.0.exe",
+  "tamanoBytes": 53037829,
+  "sha256": "8AE0603B0D89976EE25DE769291ADBAB3B233817522759A095E257526A2EB57A",
+  "fechaPublicacionUtc": "2026-10-24T05:55:42.7924052Z",
+  "novedades": "- Arquitectura multiterminal con conexión a SQL Server en red local.\r\n- Nuevo módulo de Punto de Venta (POS) con cobro rápido y descuento de stock.\r\n- Resiliencia y transaccionalidad atómica mejoradas."
 }
