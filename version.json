@@ -1,10 +1,10 @@
 {
   "versionFormato": 1,
   "claveActualizacionId": "update-prod-2026",
-  "version": "1.3.4",
-  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.3.4/ElectroStock_Setup_v1.3.4.exe",
-  "tamanoBytes": 69627076,
-  "sha256": "8D5141F82CB85445AEB656FB27115FD94F80721424862B4E3BAD96D6369A719B",
-  "fechaPublicacionUtc": "2026-10-24T19:53:19.053817Z",
+  "version": "1.3.5",
+  "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v1.3.5/ElectroStock_Setup_v1.3.5.exe",
+  "tamanoBytes": 69635873,
+  "sha256": "A7364DE1CCBD17FD68F3C8BEB86EC1C8AADB92A3278ADAA861F3A0CC77CECB83",
+  "fechaPublicacionUtc": "2026-10-25T20:47:23.0384407Z",
   "novedades": "- Incorporación del actualizador por Internet con verificación criptográfica.\n- Mejoras de estabilidad."
 }
