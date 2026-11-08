@@ -5,6 +5,6 @@
   "urlInstalador": "https://github.com/josemoises1403/ElectroStock-Distribucion/releases/download/v2.2.2/ElectroStock_Setup_v2.2.2.exe",
   "tamanoBytes": 89682206,
   "sha256": "532653DFC0BB0961AFC82C6EFFF812EB07144DF688CCCFC63152A1D082AB729D",
-  "fechaPublicacionUtc": "2026-11-08T07:35:49.1145751Z",
-  "novedades": "- Edición en caliente de unidades físicas, IMEIs y colores en consulta de existencias.\n- Eliminación física definitiva de productos y unidades con liberación de restricciones de IMEI.\n- Módulo de cuentas por pagar a proveedores y amortización de deudas.\n- Soporte High-DPI y mejoras visuales en punto de venta y catálogo."
+  "fechaPublicacionUtc": "2026-11-08T07:52:37.0373657Z",
+  "novedades": "- Incorporación del actualizador por Internet con verificación criptográfica.\n- Mejoras de estabilidad."
 }
